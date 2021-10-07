@@ -1,6 +1,6 @@
 -👋 HELLO WORD! Meu Nome é Mathyas, Adoro Programação e Busco Aprender Mais Ainda
 
-                           🛠Hoje um pequeno progamador, Amanhã um grande ddesenvolvedor_
+                           🛠Hoje um pequeno progamador, Amanhã um grande desenvolvedor_
 
 - ✔ Estou Interessado Em Aprender Mais Sobre Programação
 
