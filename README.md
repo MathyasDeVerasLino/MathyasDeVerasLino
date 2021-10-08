@@ -4,7 +4,7 @@
 
 - ✔ Estou Interessado Em Aprender Mais Sobre Programação
 
-- 🌍 Atualmente Estudo Algumas Linguagens, lua script, python, e Busco Aprender java Script, c, c#, c++, etc...
+- 🌍 Atualmente Estudo Algumas Linguagens, lua script, python, HTML, java, typescript e Busco Aprender GDscript, c#, c++, etc...
 
 - 🎈 Ah!, Ia Esquecendo De Avisar, Eu Amo Jogos e Criar Jogos!
                                                               👾
