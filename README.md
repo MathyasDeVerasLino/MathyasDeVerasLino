@@ -16,10 +16,10 @@
 </div>
 
 ###
+<br>
+<h2></h2>
+<h3 align="right">👩‍💻  Sobre Mim</h3>
 
-<h2 align="right">👩‍💻  Sobre Mim</h2>
-
-###
 
 <p align="left">Meu Nome é <b>Mathyas</b> e sou Brasileiro.<br>Adoro Programação e Busco Aprender Mais Ainda! <br><br> - ✔ Estou Interessado Em Aprender Mais Sobre Programação<br><br>- 🌍 Atualmente Estudo Ou Já Tive Contato Com Algumas dessas Tecnologias: Lua script, Luau, Python, HTML, CSS, JavaScript, Typescript e GDscript. Busco Aprender mais.<br><br>- 🎈 Ah!, Ia Esquecendo De Avisar, Eu Amo Tecnologia!👾<br><br><strong>"Hoje um pequeno programador, Amanhã um grande desenvolvedor - 2020"</strong>   <br><br></p>
 
