@@ -9,7 +9,4 @@
 - 🎈 Ah!, Ia Esquecendo De Avisar, Eu Amo Jogos e Criar Jogos!👾
   
 
-<style>
-<img src="https://raw.githubusercontent.com/MathyasDeVerasLino/MathyasDeVerasLino/output/snake.svg" alt="Snake animation" />
 
-</style>
