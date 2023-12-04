@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="100" src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif"  />
+<img align="left" height="100" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/270c.gif"  />
 
 ###
 <br>
