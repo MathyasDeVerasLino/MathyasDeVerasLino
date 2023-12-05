@@ -18,10 +18,10 @@
 ###
 <br>
 <h2></h2>
-<h3 align="right">👩‍💻  Sobre Mim</h3>
+<h3 align="right">👩‍💻  Sobre mim</h3>
 
 
-<p align="left">Meu Nome é <b>Mathyas</b> e sou Brasileiro.<br>Adoro Programação e Busco Aprender Mais Ainda! <br><br> - ✔ Estou Interessado Em Aprender Mais Sobre Programação<br><br>- 🌍 Atualmente Estudo Ou Já Tive Contato Com Algumas dessas Tecnologias: Lua script, Luau, Python, HTML, CSS, JavaScript, Typescript e GDscript. Busco Aprender mais.<br><br>- 🎈 Ah!, Ia Esquecendo De Avisar, Eu Amo Tecnologia!👾<br><br><strong>"Hoje um pequeno programador, Amanhã um grande desenvolvedor - 2020"</strong>   <br><br></p>
+<p align="left">Meu nome é <b>Mathyas</b> e sou brasileiro.<br>Adoro programação e busco aprender mais ainda! <br><br> - ✔ Estou interessado em Aprender mais sobre programação<br><br>- 🌍 Atualmente estudo ou já usei algumas dessas tecnologias: Lua script, Luau, Python, HTML, CSS, JavaScript, Typescript e GDscript. Busco Aprender mais.<br><br>- 🎈 Ah!, ia esquecendo De Avisar, eu amo tecnologia!👾<br><br><strong>"Hoje um pequeno programador, Amanhã um grande desenvolvedor" - 2020</strong>   <br><br></p>
 
 ###
 <br>
