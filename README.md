@@ -21,7 +21,7 @@
 <h3 align="right">👩‍💻  Sobre mim</h3>
 
 
-<p align="left">Meu nome é <b>Mathyas</b> e sou brasileiro.<br>Adoro programação, cybersecurity e tudo relacionado à computação. <br><br> - ✔ Estou interessado em aprender mais sobre programação<br><br>- 🌍 Atualmente estudo ou já usei algumas dessas tecnologias: Lua script, Luau, Python, HTML, CSS, JavaScript, Typescript e GDscript. Busco Aprender mais.<br><br>- 🎈 Ah!, ia esquecendo De Avisar, eu amo tecnologia!👾<br><br><strong>"Hoje um pequeno programador, Amanhã um grande desenvolvedor" - 2020</strong>   <br><br></p>
+<p align="left">Meu nome é <b>Mathyas</b> e sou brasileiro.<br>💾 Adoro programação, cybersecurity e tudo relacionado à computação! 🔌 <br><br> - ✔ Estou interessado em aprender mais sobre programação 🔎<br><br>- 🌍 Atualmente estudo ou já usei algumas dessas tecnologias: Lua script, Luau, Python, HTML, CSS, JavaScript, Typescript, GDscript e muito mais. Busco estudar e aprender mais na área.🎯<br><br>-❗ Ah!, ia esquecendo De Avisar, eu AMO tecnologia! 👾<br><br>Usr: ~$ echo<em> ""Hoje um pequeno programador, Amanhã um grande desenvolvedor" - 2020"</em> <br><strong><pre> "Hoje um pequeno programador, Amanhã um grande desenvolvedor" - 2020</pre></strong> <br><br></p>
 
 ###
 <br>
